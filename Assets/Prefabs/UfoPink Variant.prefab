@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &7148240651973754925
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 7371535151008843274, guid: 60e9e86d36e1142f68c0083a13915845, type: 3}
+      propertyPath: m_Name
+      value: ufoBlue (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7371535151008843276, guid: 60e9e86d36e1142f68c0083a13915845, type: 3}
+      propertyPath: m_Color.b
+      value: 0.84413767
+      objectReference: {fileID: 0}
+    - target: {fileID: 7371535151008843276, guid: 60e9e86d36e1142f68c0083a13915845, type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7371535151008843276, guid: 60e9e86d36e1142f68c0083a13915845, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7371535151008843277, guid: 60e9e86d36e1142f68c0083a13915845, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7371535151008843277, guid: 60e9e86d36e1142f68c0083a13915845, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 26.909973
+      objectReference: {fileID: 0}
+    - target: {fileID: 7371535151008843277, guid: 60e9e86d36e1142f68c0083a13915845, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.51000977
+      objectReference: {fileID: 0}
+    - target: {fileID: 7371535151008843277, guid: 60e9e86d36e1142f68c0083a13915845, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7371535151008843277, guid: 60e9e86d36e1142f68c0083a13915845, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7371535151008843277, guid: 60e9e86d36e1142f68c0083a13915845, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7371535151008843277, guid: 60e9e86d36e1142f68c0083a13915845, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7371535151008843277, guid: 60e9e86d36e1142f68c0083a13915845, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7371535151008843277, guid: 60e9e86d36e1142f68c0083a13915845, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7371535151008843277, guid: 60e9e86d36e1142f68c0083a13915845, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7371535151008843277, guid: 60e9e86d36e1142f68c0083a13915845, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7371535151008843278, guid: 60e9e86d36e1142f68c0083a13915845, type: 3}
+      propertyPath: onTriggerEnter.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7371535151008843278, guid: 60e9e86d36e1142f68c0083a13915845, type: 3}
+      propertyPath: onTriggerEnter.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7371535151008843278, guid: 60e9e86d36e1142f68c0083a13915845, type: 3}
+      propertyPath: onTriggerEnter.m_PersistentCalls.m_Calls.Array.data[1].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7371535151008843278, guid: 60e9e86d36e1142f68c0083a13915845, type: 3}
+      propertyPath: onTriggerEnter.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7371535151008843278, guid: 60e9e86d36e1142f68c0083a13915845, type: 3}
+      propertyPath: onTriggerEnter.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7371535151008843278, guid: 60e9e86d36e1142f68c0083a13915845, type: 3}
+      propertyPath: onTriggerEnter.m_PersistentCalls.m_Calls.Array.data[1].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7371535151008843278, guid: 60e9e86d36e1142f68c0083a13915845, type: 3}
+      propertyPath: onTriggerEnter.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: Play
+      objectReference: {fileID: 0}
+    - target: {fileID: 7371535151008843278, guid: 60e9e86d36e1142f68c0083a13915845, type: 3}
+      propertyPath: onTriggerEnter.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: StartFadeIn
+      objectReference: {fileID: 0}
+    - target: {fileID: 7371535151008843278, guid: 60e9e86d36e1142f68c0083a13915845, type: 3}
+      propertyPath: onTriggerEnter.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: UnityEngine.AudioSource, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 7371535151008843278, guid: 60e9e86d36e1142f68c0083a13915845, type: 3}
+      propertyPath: onTriggerEnter.m_PersistentCalls.m_Calls.Array.data[1].m_TargetAssemblyTypeName
+      value: AudioFade, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 7371535151008843278, guid: 60e9e86d36e1142f68c0083a13915845, type: 3}
+      propertyPath: onTriggerEnter.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 60e9e86d36e1142f68c0083a13915845, type: 3}
